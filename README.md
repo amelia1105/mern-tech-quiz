@@ -1,4 +1,4 @@
-# MERN Stack - Tech Quiz
+# Tech Quiz (MERN Stack)
 
 ## Description
 
@@ -45,6 +45,7 @@ If you used any third-party assets that require attribution, list the creators w
 
 If you followed tutorials, include links to those here as well.
 
+instructor provided starter code in cypress files for the specific tests needed
 ## License
 
 MIT License
