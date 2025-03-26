@@ -16,7 +16,7 @@ This application serves as a platform for aspiring developers to test their know
 
 ## Walkthrough Video
 
-link to video
+https://www.loom.com/share/19ce21f6b29a4b0ca49cccc8e5c2c76a?sid=9258b4b6-0a7b-465f-b61d-f065b659e58f
 
 ## Installation
 
