@@ -1,4 +1,4 @@
-describe('Quiz Component', () => {
+describe('Quiz via Fixtures', () => {
   
   // Helper function to start the quiz
   const startQuiz = () => {
