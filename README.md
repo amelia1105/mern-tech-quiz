@@ -16,6 +16,8 @@ This application serves as a platform for aspiring developers to test their know
 
 ## Walkthrough Video
 
+This video was created for grading purposes. Some of the tests have been changed since I recorded this video.
+
 https://www.loom.com/share/19ce21f6b29a4b0ca49cccc8e5c2c76a?sid=9258b4b6-0a7b-465f-b61d-f065b659e58f
 
 ## Installation
@@ -105,7 +107,7 @@ End-to-end and component tests were implemented for this application using Cypre
 
 ## Credits
 
-The fully-functioning application, including all files within the client and server directories, was provided as part of the Rutgers University Coding Bootcamp Module 19 Challenge. You can find the original challenge details [here](https://bootcampspot.instructure.com/courses/6369/assignments/90367?module_item_id=1341605). The Cypress folder, along with its files, was provided by the instructor, Kevin Ferguson. This included the pre-configured `fixtures` and `support` folders, as well as the `tsconfig.json` file. While the `component` and `e2e` folders contained descriptions of the required tests, I wrote the actual tests. Additionally, I utilized GitHub Copilot to refine and enhance the code throughout the project.
+The fully-functioning application, including all files within the client and server directories, was provided as part of the Rutgers University Coding Bootcamp Module 19 Challenge. You can find the original challenge details [here](https://bootcampspot.instructure.com/courses/6369/assignments/90367?module_item_id=1341605). The Cypress folder, along with its files, was provided by the instructor, Kevin Ferguson. This included the pre-configured `fixtures` and `support` folders, as well as the `tsconfig.json` file. While the `component` and `e2e` folders contained descriptions of the required tests, I wrote the actual tests. I also added a few extra tests after the project was graded. Additionally, I utilized GitHub Copilot to refine and enhance the code throughout the project.
 
 ## License
 
